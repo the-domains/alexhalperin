@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Alex Halperin]]></title>
         <description><![CDATA[Alex Halperin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alexhalperin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 18:14:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 18:14:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alexhalperin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0e6af0a-7df7-4227-8b18-bbdb64c43d45.jpg">]]></description>
+            <link>https://thegrid.ai/alexhalperin/ee2a8c80-e7eb-484a-8549-789a1b3b8abf/index.html</link>
+            <guid isPermaLink="false">ee2a8c80-e7eb-484a-8549-789a1b3b8abf</guid>
+            <pubDate>Tue, 12 Apr 2016 18:14:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>WeedWeek is a free and confidential newsletter about the legal marijuana industry. </p>]]></description>
-            <link>undefinedweedweek-is-a-free-and-confidential-newsletter-about-the-leg/index.html</link>
+            <link>https://thegrid.ai/alexhalperin/weedweek-is-a-free-and-confidential-newsletter-about-the-leg/index.html</link>
             <guid isPermaLink="false">805e9573-13a4-46dc-b4f8-03e8d26f3fad</guid>
             <pubDate>Tue, 12 Apr 2016 18:14:33 GMT</pubDate>
         </item>
